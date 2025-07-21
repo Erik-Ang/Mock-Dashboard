@@ -1,0 +1,11 @@
+{
+  "title": "Nova Scotia Universities Enrollment",
+  "bar_chart": "Enrollment by University and Program Type",
+  "pie_chart": "Total Enrollment Distribution by Program Type",
+  "include": "Include",
+  "university": "University",
+  "ftu": "Full Time Undergraduate",
+  "ftg": "Full Time Graduate",
+  "ptu": "Part Time Undergraduate",
+  "ptg": "Part Time Graduate"
+}

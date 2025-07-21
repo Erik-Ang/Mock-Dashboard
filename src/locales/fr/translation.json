@@ -1,0 +1,11 @@
+{
+  "title": "Inscription aux universités de la Nouvelle-Écosse",
+  "bar_chart": "Inscription par université et type de programme",
+  "pie_chart": "Répartition totale des inscriptions par type de programme",
+  "include": "Inclure",
+  "university": "Université",
+  "ftu": "Premier cycle à temps plein",
+  "ftg": "Études supérieures à temps plein",
+  "ptu": "Premier cycle à temps partiel",
+  "ptg": "Études supérieures à temps partiel"
+}
